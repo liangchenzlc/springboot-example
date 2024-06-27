@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/springboot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-xxljob/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-log/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/springboot-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/springboot-esaypoi/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-esaypoi/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-easyexcel/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-config/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-redis/springboot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/springboot-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/springboot-esaypoi/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
